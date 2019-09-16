@@ -3,7 +3,7 @@ public class PersonInfo1 {
     public static String firstName = "Rebecca";
     public static String lastName = "Mamane";
     public static int studentNo = 5192007;
-    public static String description = "A ghost has modified this file";
+    public static String description = "Un fantôme a modifier ce fichier";
 
     public static void displayFr() {
         String out = SIConstants.GREETING_FR;
