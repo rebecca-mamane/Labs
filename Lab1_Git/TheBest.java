@@ -2,13 +2,13 @@
 public class TheBest {
     
     public static void main(String[] args) {
-		PersonInfo1 r = new PersonInfo1;
-		r.displayFR();
+		PersonInfo1 r = new PersonInfo1();
+		r.displayEn();
 		System.out.println();
-		PersonInfo1 s = new PersonInfo3;
-		s.displayFR();
+		PersonInfo3 s = new PersonInfo3();
+		s.displayEn();
 		System.out.println();
-		PersonInfo1 d = new PersonInfo1;
-		d.displayFR();
+		PersonInfo2 c = new PersonInfo2();
+		c.displayEn();
     }
 }
